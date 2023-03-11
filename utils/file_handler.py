@@ -1,6 +1,6 @@
 import json
 
-from utils.params import json_folder, main_json_folder
+from utils.params import json_folder
 
 
 def file_read_to_write(file_folder, file_name):
